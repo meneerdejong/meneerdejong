@@ -7,7 +7,7 @@ PitCrew exists to make its users better drivers. This document distils what two 
 | [SimRacing Arnout](https://www.youtube.com/@SimracingArnout) | Arnout Hoekstra, setup builder and self-described "2 seconds off the aliens" club racer | Setup as a training tool, consistency, mindset, racecraft for time-poor amateurs |
 | [Suellio Almeida](https://www.youtube.com/@SuellioAlmeida) | Coach with 4,000+ hours of one-to-one sessions; went from sim racer to Radical North America champion and IMSA driver | Tyre physics, input technique, motor learning, a structured skill ladder |
 
-> **Method.** Both channels were indexed in full (217 + 204 videos). Hardware and VR reviews, news, race vlogs and track-by-track setup uploads were left out, which leaves 235 videos about driving skill. Of those, 219 have English transcripts. I read 59 of the most technique-dense ones in full, with timestamps, and searched the rest by theme. 16 videos are still missing because YouTube rate-limited the download (listed under [Gaps](#gaps)). Every claim links to the second of video it comes from. Quotes are lightly cleaned auto-captions.
+> **Method.** Both channels were indexed in full (217 + 204 videos). Hardware and VR reviews, news, race vlogs and track-by-track setup uploads were left out, which leaves 235 videos about driving skill. Of those, 219 have English transcripts. I read 58 of the most technique-dense ones in full, with timestamps, and searched the rest by theme. 19 relevant videos are missing because YouTube blocked further downloads with a bot check (listed under [Gaps](#gaps)). Every claim links to the second of video it comes from. Quotes are lightly cleaned auto-captions.
 
 ---
 
@@ -217,7 +217,7 @@ Several coaching sessions found that the "driving problem" was really a settings
 
 ## Gaps
 
-- **16 videos still need transcripts** because YouTube rate-limited the download: `0xIlSbW7OF4, hkTMigAlSv0, LXbYmgaIvlE, Yo13y3x-rZw, 5vPfvzSrYxU, 9_NbzGE4k0k, cxB3n324kNM, D5MXQR63M54, _DGXLupOPg0, qU36441jYDE, JjC1W1NNGmQ, 3lO4QKuRnZc, lhIoUqSJogs, OJAWMbMHlxc, nuilHNL1rL0, opDjvR4BcMY, KAYl8GL2uWs`. The most important are *I Mapped Out Every Skill* ([opDjvR4BcMY](https://youtu.be/opDjvR4BcMY)) and *Roadmap to Top 1%* ([KAYl8GL2uWs](https://youtu.be/KAYl8GL2uWs)), which likely give Suellio's complete skill order.
+- **19 relevant videos have no transcript.** A retry after a cooldown was refused: YouTube now asks this cloud server to sign in to prove it isn't a bot. The videos are `0xIlSbW7OF4, hkTMigAlSv0, LXbYmgaIvlE, Yo13y3x-rZw, 5vPfvzSrYxU, 9_NbzGE4k0k, cxB3n324kNM, D5MXQR63M54, _DGXLupOPg0, qU36441jYDE, JjC1W1NNGmQ, 3lO4QKuRnZc, lhIoUqSJogs, OJAWMbMHlxc, nuilHNL1rL0, opDjvR4BcMY, KAYl8GL2uWs, tQH7NagPzgE, xdKuoolZTJc`. The most important are *I Mapped Out Every Skill* ([opDjvR4BcMY](https://youtu.be/opDjvR4BcMY)) and *Roadmap to Top 1%* ([KAYl8GL2uWs](https://youtu.be/KAYl8GL2uWs)), which likely give Suellio's complete skill order.
 - **Not covered:**
   - Arnout's per-car setup videos (deliberately skipped)
   - Suellio's free *Racing Technique Driver Development Guide* PDF

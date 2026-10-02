@@ -1,0 +1,253 @@
+# PitCrew research: per-video notes
+
+Working notes behind [`driving-coaching.md`](driving-coaching.md). They are paraphrased from the auto-generated captions; `[m:ss]` marks the timestamp in that video. Each heading links to the video.
+
+- **Arnout** · [_PP-4ogMwHA](https://youtu.be/_PP-4ogMwHA) "How to Brake (deep dive)":
+  - Two principles: (1) line first — max track use, biggest radius; learn lines from track guides ignoring gears/braking [3:38-4:11]. (2) trail-brake to create yaw on entry so the nose points at the exit by apex → throttle earlier [5:12].
+  - "Friction box": tyre can't do 100% brake + 100% steer. "Grip reservoir" = kinetic energy on fronts during braking, used to rotate [6:12-7:44].
+  - Track guides tell where to brake, never where to release [10:55].
+  - Common fault: over-slowing to apex in long corners → apply throttle with lock → understeer → lift [19:44]. Keep a little brake to the apex.
+  - Mid-corner brake oversteer → move brake bias forward [17:06].
+  - Exit: can't rotate much after apex; entry decides exit [24:25].
+  - Drill: "pick a braking point earlier than you feel and release earlier than you feel" [28:03]. 10% brake as important as 100% [29:37]; tune pedal curve so low pressures are controllable.
+- **Arnout** · [dG95VpmDSno](https://youtu.be/dG95VpmDSno) "Why You Can't Fix Your Driving Habits":
+  - Driving style = hundreds of small decisions (initial brake pressure, release rate, steering rate while releasing, sudden drop at end of release, engine braking/downshift) [0:30-1:01].
+  - Habits form like a groove carved in wood [2:02]. Coaching students need reminding ~7x [2:33].
+  - His own: brake fully, hesitate, re-brake [3:03].
+  - Step 1 awareness: after a lap think about inputs, not lap time [4:05]. Change one thing at a time (e.g. steering speed, gear choice per corner) [5:06].
+  - Setup levels as feedback: low level = confidence/racing; go up a level in practice to be forced smoother; return down, car feels understeery = you improved [7:38-9:40].
+- **Arnout** · [0tpqhKxF1yc](https://youtu.be/0tpqhKxF1yc) "Watch This If You Have a Lap Time Problem" — ARNOUT'S 4-LEVEL LADDER:
+  - Skill = knowledge + technique. Behaviour change → feedback → learning; "if you keep doing the same thing, nothing changes" [1:33-3:07]. Too hard → anxiety/quit; too easy → boredom (flow channel) [1:02].
+  - L1 (wildly off pace): brake early / lift early to buy time; faults: late brake, steering correction, overshoot apex, "jumping" brakes, on-off-on throttle [4:09-5:10]. Goals: car control, turn off assists (braking line, SC), predictable inputs incl. gear shifts; one input at a time: brake → turn → commit throttle, no lift; build track references; ignore lap time [5:41-6:11].
+  - L2 (~5s off): time lost because throttle too late; causes: not opening corner enough OR mid-corner speed too high [6:41]. Steady single inputs gained ~0.5s on one exit [8:14]. Then copy lines (not brake points) from track guides [8:44].
+  - L3 (3-4s off, "most sim racers are stuck here"): brake earlier, bleed off, learn release; trail braking takes ~6 months; early brake gives time to execute [10:48-12:20]. Make setup/car more aggressive to force precise braking [13:23-14:24].
+  - L4 (split-1, gap to aliens): open corner more, longer radius, curbs; need aggressive setup for rotation; compare replays/telemetry with aliens; 1% improvements; 0.5s at L4 ≈ L1→L3 gain [15:25-20:06].
+  - Alien: max slip angle every phase, no hesitation, under pressure [21:41].
+  - Always-rules: racing line ("you cannot cheat the racing line") and throttle early.
+
+- **Suellio** · [SxUSZVKpHAE](https://youtu.be/SxUSZVKpHAE) "Why You Stopped Improving":
+  - Plateaus most common ~2s off [1:02]. Two causes: repeating the same things (solidifies bad habits — grip too hard, pedal release, look distance, holding breath/tension) [2:36-3:06]; trying advanced techniques before foundations ("3s off — trail braking won't fix it; 4s off — downshift timing won't") [3:37].
+  - Fix: "aha moments" by experimenting outside the box [4:07-5:07]. Never answers "where do I brake/what gear/what line" — creates an imitation machine [5:07-5:38].
+  - John vs Marco: John polished a beautiful smooth brake trace and plateaued; Marco principle-driven ("did I get more force out of the tyres?"), tests grip, even overdrives; Marco 0.2s faster [5:38-8:41]. → Don't score trace beauty; score outcome.
+  - Exaggeration drills: induce understeer, excessive oversteer, spin on purpose to feel the principle [10:46].
+- **Suellio** · [DT-1REn31eQ](https://youtu.be/DT-1REn31eQ) "Slip Angle Explained":
+  - Fast driver stays near optimal slip angle on all 4 tyres entry→mid→exit; all techniques serve that [1:02].
+  - Optimal slip: street 8-12°, semi-slick 5-7°, slick 2-4° — the latter drop off fastest [4:06-5:08].
+  - Felt via FFB: peak FFB resistance comes slightly BEFORE peak lateral force → can steer a few degrees past FFB peak [5:38-6:10].
+  - Front tyres dictate, rears react [11:56]. Spin savable only while countersteer lets fronts push the other way [12:27].
+  - Kane MX-5 example: ~5° steering + downshift engine braking + trail brake = on optimal slip by turn-in; brake release adjusts rotation; adds steer as engine braking fades; light hands on exit [8:53-10:56].
+  - iRacing tyres punish overdriving (overheat) → sit on optimal, not over [11:26].
+- **Suellio** · [uceoiawBBcM](https://youtu.be/uceoiawBBcM) "Consistency Pt1 Braking":
+  - "Entry is cause, exit is consequence" [0:00]. "90% of consistency comes from the car always slowing down the same way" [0:31].
+  - Braking functions: deceleration (beginners) + rotation (int/adv); you always get both when steering [1:02]. Trail braking = whole transition from peak to 0 while adding steer [2:06-3:09].
+  - Consistency recipe [3:41-7:47]: (1) fixed brake reference (board/cone/marshal post, never "around there"); (2) fast/aggressive initial application; (3) known target pressure % (100 with ABS, ~65-75 without); (4) maintained pressure — no drop-and-reapply; (5) straight line + relaxed hands (gripping → 45/55 load, lock one side).
+  - Slow application → ~10 km/h too fast at turn-in from same reference [6:46]. Dip & reapply → 5-10 km/h too fast [17:04].
+  - 1% brake feel drill: hold barely-visible 1% on the pedal meter, step up/down 1% [8:19-9:23]. 1% + steering = rotation for understeery car. Trail braking is an ongoing process, not a tap [12:29].
+  - Light hands: relax, feel FFB; steering gets heavier when you add trail brake and rotation increases [10:26-11:28].
+  - Finding entry speed: start braking well before 3-board, move later lap by lap until target turn-in speed; then brake as late as possible that still gives that speed [14:30-16:01].
+  - Beginners: pick a gear per corner as a speed window; advanced: gear + RPM [18:04-19:06].
+- **Suellio** · [zfaPTvqJ8zs](https://youtu.be/zfaPTvqJ8zs) "Consistency Pt2 Line":
+  - Biggest circle needs full entry/apex/exit [1:00-2:34]. "Positioning" (lateral place) and "angle" (heading) at key points: start of braking zone and turning point [2:34-3:36, 13:33-14:34].
+  - Pointing outward before turn-in adds 2-5° of rotation to do [5:51]. Turning point offset of 1 car length = lap time [9:25].
+  - Brake in a straight line to maximise deceleration; prepare position/angle before braking (e.g. go around kink and stay by the wall) [12:00-14:34].
+  - "Checkpoints" = position+angle spots that guarantee a good corner, esp. blind corners (level 3 course) [10:58].
+- **Suellio** · [FjyjbD_dJAU](https://youtu.be/FjyjbD_dJAU) "4 Stages of a Corner":
+  - Stages: (hard braking) → early entry → late entry → early exit → late exit [0:00].
+  - Early entry: release brake while adding steer "like pouring liquid from one cup to another"; never full brake while turning, never fixed pressure, never reapply if car gaining rotation; common error: too much/too quick steering [1:01-2:02]. Most oversteer-prone phase.
+  - Late entry: build to Maximum Rotation Point (MRP); common error = passive driving, understeer & wait; root cause of most exit spins [3:05-3:35].
+  - Early exit: from MRP, accelerate, rotation should decrease but don't unwind too fast [4:35].
+  - Understeer → snap oversteer pattern: understeer on early exit (timid on power) → force rotation on late exit → lose car. "Almost 100%" happen this way [5:05-5:35].
+  - Late exit: least control, reaps prior phases [6:05]. Safe to push for limit: late entry & early exit; careful: early entry & late exit [7:07].
+- **Suellio** · [RK6kE0ftFA0](https://youtu.be/RK6kE0ftFA0) "5 Steps to Master Trail Braking":
+  - Without proper trail braking ≥1 s/lap lost [0:00]. First attempts are slower than "release to 0 and roll" because line, steering and downshifts must change too [0:30].
+  - Steps: (1) turn in slightly earlier → V-shaped line (trail) vs U-shaped (rolling) [0:30-1:00]; (2) turn the wheel MORE SLOWLY at first — biggest trail-braking mistake is steering too fast [1:30-2:00]; (3) relax arms in heavy braking, gradually firm up toward apex; steer only to peak FFB resistance — wheel going light = destroying fronts [2:30-3:30]; "brakes, not steering, make the car turn" [3:00]; (4) pedal precision: hold 1/25/50/75/99% and step back 1% at a time; fix non-linear brake settings (gamma/linearity 1.0 for load cell; slight gamma for pots) [3:30-5:31]; (5) brake less once turning → higher entry speed, longer on brakes, earlier apex [5:31-6:01].
+  - Checklist at [6:31].
+- **Suellio** · [0cX116actow](https://youtu.be/0cX116actow) "Biggest Trail Braking Mistake" (coaching, 3 s/lap found):
+  - Student: 100% brake → instant drop to 0 → throttle ("on/off button"); steering while at 100% with ABS = abusing fronts, understeer [2:06-3:40].
+  - Hidden cause: load-cell saturated at 100% — pressing harder/lighter still reads 100, so releases look sudden; fix: cap at 90-99% so the trace moves [18:11-19:46]. → PitCrew: detect time-at-100% plateau + cliff drop.
+  - Drills: "never brake more than 30% on the whole track — pretend brakes are broken" [6:16-7:16]; "never hit 100%"; 1% and stay on it ("ongoing, not tap") [8:46]; brake early to free "brain real estate" for mid-corner [7:46-8:16]; split 180° corner — no throttle until 90° rotation [4:43].
+  - Speed falling while turning = rotation; speed rising = understeer [5:44].
+  - Turn-in with "one gram of weight" in hands for first ½ s [11:24-11:56]. "Car should not be on rails, it should be pending" [9:17]. Instinct to correct rotation instead of using it [10:54].
+  - "Entry is half the corner — you did the entry in the first 10% then nothing" [16:37].
+- **Suellio** · [WrbV_vmuq_A](https://youtu.be/WrbV_vmuq_A) "Light Hands — light/firm/light":
+  - Easy to spin on entry & exit, hard mid-corner [0:00-0:31]. Pattern: light on entry, firm mid-corner, light on exit [0:31-2:03].
+  - "Brakes amplify steering" — with trail brake ~10x rotation from same angle → relax hands when touching brakes [1:02-1:33].
+  - "Hyper-obsessing over the apex": too fast → firm hands → spin. Abort the apex, take a later exit [4:07-5:08].
+  - Passive countersteer: relaxed hands let FFB do the micro-corrections [6:09].
+  - Every time weight goes to the fronts → relax hands more [9:42].
+- **Suellio** · [_40IrLOww9s](https://youtu.be/_40IrLOww9s) "80% Make This Mistake — Steering":
+  - "Pandemic": drivers are afraid of steering → under the limit on steering → pedals lose feel; trail braking useless if not at front limit ("brakes amplify the steering") [0:30-2:02, 7:42-8:13].
+  - Step 1: steer more, overdrive the fronts mid-corner (25-75% of corner) to find understeer [2:33-6:10]. Step 2: adjust balance with 10% brake / 10% throttle, not steering [6:10-9:46]. Countersteer is the last resort — costs ~0.5 s [11:53-12:23].
+  - Missing 5° of rotation mid-corner = must find it at higher speed later → late-exit spin [5:08-5:38, 12:55-13:26]. Line is a closing spiral then opening [12:55].
+  - Overdrive the steering, not the brakes or throttle [10:50].
+- **Suellio** · [wrKAwiOnL4U](https://youtu.be/wrKAwiOnL4U) "Most Drivers Never Reach the Limit" (Motor Enclave talk):
+  - Fear = lack of control + unpredictability [3:00-3:33]. Limit isn't one point: lockup, understeer, oversteer are all limits; understeer is a safe teaching limit [4:34-5:05].
+  - Under-limit/crash cycle from guessing brake points [5:36-6:06]. Safe method: (1) threshold brake test early, (2) understeer at min-speed of slowest corners first, then blend [6:37-8:39].
+  - "Exits are consequences of entries" — worked months on entries only [8:39].
+  - FOUR PILLARS of car handling: feel understeer, feel oversteer, induce understeer, induce oversteer; "if you can cause it, you can prevent it" (spin on purpose on entry) [9:09-9:39].
+  - Relaxed hands: control force not angle; less fatigue, more oxygen, better decisions [12:41-13:12].
+  - "Lap times are useless" across conditions — judge behaviour [14:14]. Mantra "on their ass" fixed a driver who lifted with cars behind [14:45].
+  - Sim habits must transfer: don't crash-reset your way to a fast lap [1:30-2:00].
+- **Suellio** · [zFALqnm5MDw](https://youtu.be/zFALqnm5MDw) "What is The Limit?":
+  - Definition: limit of a tyre = max force to change direction/speed. Types: acceleration (wheelspin), deceleration (lockup/ABS), cornering (understeer=fronts, oversteer=rears), combined [1:01-8:19].
+  - Over the limit = less force, ABS/TC included [8:49].
+  - Underdriver can be inconsistent unpunished then makes a big mistake; controlled overdriving teaches more — be a "scientist overdriver" [9:19-11:53].
+  - Perception "refresh rate": 1 → 2 → 3 states per corner (e.g. entry US, mid OS, exit OS) [12:23-12:55].
+  - Approach order: peak deceleration first (brake at 5 board → 4 → 3), then medium-speed understeer, only then oversteer [13:27-15:30].
+  - "A good driver can make an understeery car oversteer and vice versa — stop blaming the car" [6:13-6:44].
+- **Suellio** · [51Dw_vhcUBA](https://youtu.be/51Dw_vhcUBA) "50 Sim Racing Mistakes" (selected, measurable ones):
+  - No racing-line assist (ruins vision), no assists, cockpit/bumper cam; scan ahead like Guitar Hero [0:30-1:02]. Practise before racing [1:02].
+  - Align white lines to cockpit references for track-use consistency; one line repeated [1:33-2:05]. Specific brake reference "to the metre" [2:05].
+  - Breath-holding in corners → tension [2:05-2:36]. Release 100→0 fast = popping fronts, understeer, seconds lost [2:36]. Strangling the wheel [2:36]. Blind laps (500 laps without analysis) [2:36-3:08].
+  - Brake application ≤ 0.5 s from initial to peak [3:08]. Settings: steering range, pedal linearity, deadzones, FFB, FOV calculator (≤ +10%) [3:08-3:38].
+  - Never fixed steering while speed changes: increase steer on entry, decrease on exit [3:38-4:10].
+  - Turning in with 100% brake relying on ABS — drive ABS cars as if no ABS [4:10].
+  - Don't look at cars; don't give too much room [4:10-4:41]. Downshift timing matters for balance [4:41].
+  - Tired/plateauing → take a break, watch teammate [4:41-5:11]. Don't turn in fast while trail braking [5:11]. Compare with teammates [5:11].
+  - Off track: don't snap back on [5:41]. High-downforce: release slowly on straight as downforce drops, steeper as you turn — two-slope trace; low-downforce: hold flat (≤10% release) until turning [5:41-6:12].
+  - Camber/crests: ask less on crests/off-camber; brake +20% in compressions, −50% over crests [6:12, 9:43].
+  - No coasting (both pedals 0) for 99% of cars [6:12-6:42]. Don't drive purely through understeer; use engine braking + trail braking (3 rotation tools) [6:42].
+  - "Stop being under the limit for the sake of consistency — in practice abuse the car" [7:12].
+  - Half-throttle understeer: accelerate to traction limit, then modulate [7:12]. Don't seek rotation on throttle (compensating entry understeer) [7:12-7:42].
+  - Flat corners: turn in quickly; braking: slowly [7:42]. Fix inputs before setup [7:42].
+  - Don't increase brake mid-corner — perfect brake trace goes "down and only down" to apex [7:42-8:12]. Don't brake as hard when car is laterally loaded (lock unloaded side) [8:12-8:43].
+  - Compound corners: no straight between, use all lateral grip [8:43]. No throttle on entry (except open diff) [8:43-9:13].
+  - Low-downforce: progressive/exponential steering trace (V-line) [9:13]. Don't hesitate after entry oversteer correction [9:13-9:43]. Passive not active countersteer [9:43].
+  - Double apex spacing by downforce [9:43-10:13]. Throttle ramp to traction limit: ~0.3 s if oversteery exit, ~0.1 s if understeery [10:13]. Let rotation trigger brake release [10:13-10:44].
+- **Suellio** · [45I_XjxnAgw](https://youtu.be/45I_XjxnAgw) "5 Mistakes Visualised in Telemetry":
+  - Use telemetry to ask WHY, not to copy brake points; video replay first, telemetry second [0:30-2:31].
+  - Coasting/no trail: speed trace shows two straight slopes with a kink at brake release; earlier & harder braking; ~10-12 km/h less at turn-in; 0.3 s lost in one corner [3:31-7:32].
+  - Not using all track at entry (half a car width): speed trace shape unchanged, just uniformly lower (−5 to −14 km/h); 0.7 s on a 40 s track; only visible on video [8:34-11:08].
+  - Over-trail-braking: final pressure 20% vs 5% → −11 to −20 km/h min speed; steering ~half of reference; delta flattens on exit but never recovers [11:08-16:45].
+  - Steering too much: easiest to spot (43% vs 23%); U-shaped speed trace (vs V for trail-brakers); loss mostly on exit; risk of understeer → snap oversteer; 1.1 s lost [16:45-19:50].
+  - Student analysis: 2× steering + staying in 2nd instead of 1st (no engine braking) → 0.8 s in one corner. Three rotation tools: brakes, steering, engine braking — answer is in those three graphs [21:27-24:00].
+- **Arnout** · [DxhISBCYpZQ](https://youtu.be/DxhISBCYpZQ) "Death of the Trail Braking Tutorial":
+  - "Trail braking isn't the goal. Understanding is." [0:00]. Grip circle + load transfer: loaded vs unloaded circles [1:01-2:05].
+  - At high speed small steering while braking hard pushes fronts out (lock/understeer) or unloaded rears out (snap) — load transfer accelerates loss [5:44-7:45]. Low rear brake bias → rears give up [7:45].
+  - Common: brake late, look at apex, "stop and start steering" — robs braking performance [6:45-7:15].
+  - "Fishing for grip" = small steering oscillations around optimal slip [9:48-10:50].
+  - Low-speed exit: full lock + floor it = understeer, then fronts regain → rears out → exit spin (chicanes!) [13:56-15:29]. Low speed off-pedals: aggressive steering OK [14:58].
+  - Kerbs add momentary load → rotation; with aggressive setup unwind on kerb [17:02-18:06].
+  - Better line: slow mid-corner more, rotate (even provoke rear slightly with throttle), point to exit, full throttle — vs being on the limit all the way round [20:38-22:43].
+- **Arnout** · [KlVMVVnQd20](https://youtu.be/KlVMVVnQd20) "Brake Pedal Problem":
+  - Hardware faults: can't do 1-2% (jumps to 10-20), spikes (20 → 60), collapse on release (100 → 50) [1:03-1:36]. Use input overlay (RaceLab, TinyPedal, Race Element) [2:07].
+  - Pedal checklist: hold 100% ≥30 s without pain; long smooth bleed; tiny 1-3% touches; hold 80%, 50% [4:13-5:14]. 100% at end of travel (hard stop), progressive [6:19-6:49]. Small deadzone at top; curve so trace is smooth [8:23-9:24]. Rigid rig [9:55]. ABS haptics useful [10:26].
+- **Arnout** · [3PvjRuD2rKI](https://youtu.be/3PvjRuD2rKI) "Why Pushing Harder in GT3 Doesn't Work":
+  - Push stint (1:46.11) vs calm stint (1:46.25): calm = same pace, more consistent, +4% energy left, ~7 min more fuel time, 1.3% less tyre wear [1:34-2:48, 11:32-14:36].
+  - Push mode = 100% mental capacity, sharpness fades over laps [3:49-4:19].
+  - Technique: lift before brake zone (lift-and-coast) → more time to time braking; one foot at a time frees attention; no throttle stabs between corners — rotate while coasting/trail braking then 100% throttle [4:50-10:30].
+  - Practise it in practice, not mid-race [5:54]. Switch between push and relaxed to see where you overdrive [15:06].
+- **Arnout** · [cqZ3w2Bf-ik](https://youtu.be/cqZ3w2Bf-ik) "Why Lap Time Feels Impossible":
+  - Lap time = shortest effective distance + highest average speed [1:33-2:04]. Rookies violate by metres, advanced by millimetres [2:36].
+  - "Invisible lap time": you must SEE the problem first; replay own lap after a break, compare simple lines with hot laps [3:08-4:39].
+  - "Narrow prediction": one thing only, measurable; conscious brain ~50 bits/s [4:39-5:43]. Many predictions will be wrong — still learning [6:13].
+  - You'll never feel satisfied: 5 s off and 1.2 s off feel the same — "lap time stops being a verdict, it becomes information" [9:15].
+  - Diminishing returns; fastest are Messi/Ronaldo-level with ecosystem [9:45-10:47]. Coaching/telemetry = shortest route to see [11:18].
+- **Suellio** · [PDsNPRJxjd8](https://youtu.be/PDsNPRJxjd8) "5 Best Tips for Beginners":
+  - (1) Braking late is the LAST step: first understand rotation & min speed, line, exit; then move brake point later until it interferes with mid-corner [1:02-2:33]. Beginners: only learn straight-line stop + mid-corner turn; never 100% brake + lots of steer [3:05-3:37]. Otherwise "a passenger for 1-2 s" [4:08].
+  - (2) Maximise arcs — it's a vision problem from cockpit [4:39-5:40]. Target symmetric 50/50 rotation entry/exit [6:10]. Don't think V/U shapes until you can trace a circle consistently [6:40]. Compound corners: start at 50/50 compromise, then bias by following straight length [7:42-9:14]. Half a car width unused ≈ 0.1 s [9:45]. Drill: drive slowly onto grass by sound to calibrate track-edge cockpit reference [9:45-10:15].
+  - (3) Bad overdriving = too much entry speed (you just survive, learn nothing); good overdriving = mid-corner understeer at min speed (informs next lap) [11:47-15:23].
+  - (4) Rotate most at minimum speed (safest); extremes are oversteer-prone [16:23-17:55]. Light-firm-light; relax a fraction of a second after power so FFB self-unwinds; exit track use is a consequence of throttle timing [18:25-25:04].
+  - (5) Braking: learn 100% and 1% first; trail-brake slow release only after straight braking + min-speed rotation are solid [25:35-28:40].
+- **Suellio** · [_5ckvdjLVnA](https://youtu.be/_5ckvdjLVnA) "5 Mistakes I Wish I Knew Earlier":
+  - (1) Dropping brakes and "praying it rotates" — keep last ~1% for rotation [0:31-2:33]. (2) Afraid of mid-corner steering; understeer is safe [2:33-5:04]. (3) "Driving the line vs driving the car" — don't force the apex; strangling wheel [6:07-8:41]. (4) Racecraft: staring at car ahead → tunnel vision, lost references, no feel; focus on references, peripheral for cars [9:13-12:14]. (5) Hesitant brake application ruins reference — hit peak pressure AT the reference [12:46-14:49]. "With an imperfect entry it is impossible to have a perfect exit" [15:19].
+- **Suellio** · [Tr3K0ow-1-0](https://youtu.be/Tr3K0ow-1-0) "5 Things I Wish I Knew":
+  - Late braking misconception; mid-corner most important [1:00-1:30]. Drill: whole lap never >60% (he beat a student by >1 s braking ≤50%) [3:34-4:04].
+  - "Lower half of brake pressure is more important than upper half" (except very high-downforce) [5:04-6:04]. 0-20% mid-corner, 20-50% initial turn-in; he uses 0.5% sometimes [7:36-8:37].
+  - Get comfortable with oversteer early; expected events → faster reaction (unexpected triples reaction time) [9:09-11:09]. Induce understeer on oversteery car: release brakes quicker, or 10-30% throttle dabs [11:39-12:09].
+  - ABS reliance in turn-in = loss of steering precision; practise non-ABS cars (Porsche Cup no ABS, F4, F3) [12:40-14:43].
+  - Lap time comes from minimum speed / lateral force; neutral steer = all four tyres working [15:13-16:49].
+  - (Tr3K cont.) Minimum speed is the biggest beginner-vs-pro difference in ~99% of corners [17:20]. Fast drivers say "this is the car's limit", slow drivers say "this is what I can do" [18:50].
+- **Suellio** · [f7VwINirLuM](https://youtu.be/f7VwINirLuM) "How to Achieve a Perfect Lap" (MX-5 Okayama breakdown):
+  - Compound corner question: can I use full exit and still get back for next entry? If not → compound; sacrifice the one before the shorter straight; test both via delta [2:39-3:40].
+  - Cockpit illusion of track use — check from outside cam [4:10-5:10].
+  - Hard-braking entry: <5° steering + aggressive downshift engine braking + trail → car bends, countersteering while still gaining yaw ("6-8° drift" = neutral steer) [5:43-7:46].
+  - Fast corner: steering locked as priority; balance with pedals (release brake / 10% throttle) rather than countersteering while trail braking [9:53-11:23]. "Perfect corner = middle between understeer & oversteer from entry to exit".
+  - Opening-radius corner: power earlier; closing-radius: later — limiting factor is smallest arc [13:56-15:27].
+  - SPIRALS: decelerating → closing spiral (add steer progressively), accelerating → opening spiral (unwind). Constant arc only at constant speed [16:30-17:30]. Common beginner error: hold steering on power → understeer [18:33-19:03].
+  - ABS only in a straight line; first steering input → release (95→92→85…) [19:33-21:08]. Brake/steer ideal combination is a moving target per time slice [21:39-23:43].
+  - Throttle shape depends on corner/power: squeeze vs step-to-traction-limit-then-modulate [24:46-25:18].
+  - "Unwind steering only as a function of over/understeer — never because someone said use all the track" (trap: unwinding under the limit) [25:48-26:49].
+  - Compound: never go straight between corners; sacrifice just enough [27:49-28:50]. Coast only when rotation is already enough (e.g. over crown/crest) [29:53-30:24]. Double lefts/rights: exit of first = entry of second [31:24].
+  - Understeer → 10% trail brake; oversteer even while coasting → 10% throttle ("negative brakes") [33:26-34:27]. Turn in fast when on power / not braking, slowly when trail braking from hard braking [35:29-36:00].
+- **Suellio** · [hHiDdrgpTGQ](https://youtu.be/hHiDdrgpTGQ) "Racing Psychology":
+  - "That lap was bad" vs "I was bad" — task framing; never say "I'm a bad driver" (self-fulfilling) [0:31-1:32].
+  - Stop trying too hard (tension, faces); be a sponge; awareness beats effort [1:32-3:37]. Watch high-quality drivers; noticing detail grows with experience [3:37-4:40].
+  - Plateaus = learning speed 0; series of plateaus normal; break with awareness/aha moments [5:10-8:45].
+  - Almeida method: "If you can cause it, you can prevent it" [9:46].
+  - Four pillars of muscle memory: time, patience, reference, repetition [10:16-11:48]. "My trail braking is currently bad" (not "I'm a bad trail braker") [11:18].
+  - Blind laps vs AI without reference = no improvement [12:48]. Spaced repetition / forgetting curve [13:18-14:50]. Dunning-Kruger: Mount Stupid → Valley of Despair (on reaching top split) [14:50-16:53].
+- **Suellio** · [nUpAKh2tZB8](https://youtu.be/nUpAKh2tZB8) "What Makes You Fast?":
+  - Objective chain: finish first ← fastest lap ← most speed through a single corner; cornering speed, not top speed [0:32-1:33].
+  - Contact patch; longitudinal vs lateral; can't have peak decel + peak cornering; speed and rotation inversely proportional [2:03-6:39].
+  - Academy ladder with benchmarks: L1 Safety & Consistency → top 10%, 3-4 s off, 10-20 consistent laps; L2 Balance & Speed (trail braking, string theory) → top 5%, ~2 s; L3 Cornering Precision (spirals, MRP, compound/blind corners) → top 2%; L4 Mastery (neutral steer, dynamic brake bias, 3 rotation tools, active vs passive, cold tyres, tyre temps) → top 1% [7:10-16:19].
+  - L1 order: braking consistency → basic track learning → inducing under/oversteer [10:43-11:44]. Learn a track in 2-5 laps; "30 minutes", not a full day [12:45-13:15].
+- **Suellio** · [6MqJRQbAY0U](https://youtu.be/6MqJRQbAY0U) "You're Not Bad — You Got Stuck Here" (3-step limit process):
+  - Step 1 beginner: overslow, early throttle, coast — safe stable platform, low min speed [1:01-2:32]. Step 2: carry more speed in, throttle later from higher min speed → requires braking+turning; steering becomes ultra-sensitive; 5° with brakes > 40° without [3:04-8:42].
+  - Downforce shapes line: high DF → U/circular, linear steering, single apex; low DF → V/elliptical, exponential steering, earlier turn-in, double apex [4:05-7:42].
+  - At ABS, extra steering does nothing; 10% below ABS might spin → why people get stuck (can't feel 10%) [9:13-10:13]. Long corners (Carousel Sonoma, Bruxelles Spa) hardest [10:13-11:13].
+  - Oversteery cars faster because oversteer corrections (less brake / some throttle) raise min speed [13:16-13:47].
+  - Step 3: maximise lateral load at all times; keep fronts engaged; correct oversteer via brake release vs countersteer depending on context [15:49-17:50]. "Bouncing off the apex" (turned in too early → straighten → wasting 50% grip) [18:50-19:20]. Slow, smooth correction = bad; fast drivers turn in slowly but correct quickly [19:52-20:24]. Barely missing the apex while on the limit beats hitting it by overslowing [20:56-22:00].
+- **Suellio** · [LZanXwUDnLI](https://youtu.be/LZanXwUDnLI) "How to Get Better":
+  - (1) Stop imitating; lap guides show outputs not the thought process; drive the car, then build the line [1:02-5:40]. (2) Order of skills matters; foundation = induce oversteer/understeer (spin on purpose, even at a centripetal circuit); "the most fundamental skills give the most lap time" [5:40-10:19]. (3) Be a curious child — big slides first, then smaller; review incidents instead of rage-quitting [11:50-15:23]. (4) Find rivals slightly faster; "average of five closest people" [15:23-17:56]. (5) "Shut up and drive" — knowledge → instinct through repetition [17:56-19:29]. (6) Don't trust coach 100% — treat advice as hypothesis [19:29-20:01].
+- **Arnout** · [Xic-gKE0788](https://youtu.be/Xic-gKE0788) "What Practice Can Never Teach You":
+  - Long solo practice rarely makes you faster — nothing at stake; use it for setup, testing, wildly different approaches [0:30-1:00, 2:00].
+  - Races create pressure → brain becomes "problem-solving machine"; repeat same car/track combo across several races with rest in between → quali 1:41.4 → 1:40.9, race 41.1s & P3; corner entry seen in "five parts instead of three" (higher resolution) [2:30-5:06].
+  - As skill compounds you want more aggressive setup; you get rusty after breaks → drop a level [5:36-7:38]. Switching cars costs refinement short-term but broadens skill (hypercars improved GT3) [7:38-8:41].
+- **Arnout** · [1aOT6pWlP3k](https://youtu.be/1aOT6pWlP3k) "Lap Time Is a Trap — Multiclass":
+  - Use practice out-lap to check pit entry [0:31]. If short on time, join online and follow the field — "learns 10× quicker than pointless laps" [1:02-1:33].
+  - Pick fights; let faster cars go early [2:34]. GT3 in multiclass: be predictable, hold line, let hypercars pass; hypers flash lights [4:38-6:12].
+  - Drive below limit in traffic → execute every corner; safer setups beat aggressive ones over a stint (fatigue, tyre wear) [7:12-7:43, 10:21]. Bump front brake bias when tyres go [9:48]. P5 in split 1 with no practice.
+- **Arnout** · [Hi8kqPq8VpU](https://youtu.be/Hi8kqPq8VpU) "Escape Beginner Hell":
+  - #1 beginner deficit is confidence [0:00]. Principles: (1) sim racing is endless problem solving at your level — ignore high-level problems (fuel litres, 47 vs 48% bias) [1:33-3:06]; 1% improvement compounds [3:36]. (2) Focus: one sim, default settings/FFB, one car, one track, reps until boring; remove assists ASAP [4:07-5:41]. (3) Race online ASAP — 2-4× faster learning; not fun at first [6:11-7:46]. (4) Get comfortable being uncomfortable — new tracks, rain, blue flags; don't hide on Spa/Nürburgring/Watkins Glen [8:47-9:48]. (5) Watch replays; keep learning [9:48-10:49].
+  - Beginner L1 focus: braking points, racing line, don't spin; L2: better line & brake points, steering timing, manual shifting, lower TC, no track cuts [10:49-11:20].
+- **Arnout** · [W0Cra-8zqig](https://youtu.be/W0Cra-8zqig) "LMU Beginners: Stop Trying to Win":
+  - Rookie goal: finish races, build a track record; ~80% finish rate; confidence = "knowing what happens next" [2:02-2:33].
+  - Grip budget: wide exit = fronts out; throttle + steer = rears out [3:05-4:07]. Fixed-setup aids: raise TC for exit oversteer; ABS up / brake bias forward for braking issues [4:37].
+  - Assess honestly: can you replicate your quali PB in the race? If not, let people pass [5:07]. Race starts: leave margin, lift early, watch brake lights, stay predictable, don't switch lines; check radar [5:38-11:23]. Default when unsure: passive and predictable [7:42].
+- **Arnout** · [jVz-u8R2Vi4](https://youtu.be/jVz-u8R2Vi4) "Why You Keep Getting Wrecked":
+  - "It's your own fault" — taking blame gives you control; review own replay assuming fault [1:00-2:31]. Read driver behaviour (e.g. someone who dive-bombs an LMP3 will do it to you) [8:35-9:06].
+  - Anger compounds into mistakes; he squeezed out of anger and got hit [10:07-12:10]. Champion mindset after a lap-1 punt: make a comeback story [4:01-4:33]. Safe rejoin [12:41].
+- **Arnout** · [ZxcTrq03TwY](https://youtu.be/ZxcTrq03TwY) "The One Fundament": CONSISTENCY → AWARENESS → ADAPTABILITY.
+  - Fix variables: same sim, gear, track, conditions, car, setup [1:30-2:32]. Assists at first, remove ASAP [2:32]. First win: 3 laps without going off [3:33]. Consistent laps = product of consistent brake points, steering, line, throttle [4:35]. Consistency frees mental overhead (you can think on straights) → next track learned 3× faster [5:07-6:11].
+  - Awareness: line choices, replays, telemetry, mirrors, gaps [8:15-8:47]. Adaptability: adjust setup/style/brake bias per situation [9:17-11:24]. Same car for a full 10-12 week season [10:19].
+- **Arnout** · [D_CT0qrxQz0](https://youtu.be/D_CT0qrxQz0) "Learn a New Track 3× Faster":
+  - Conscious brain ~50 bits/s vs 11M unconscious [0:30]. Familiar car + safe setup; remove overlays (delta, RPM); enlarge track map [1:00-2:02]. Drive first laps slowly, fresh-minded, no guide [2:02-6:13]. 30-45 min, stop; watch detailed track guide off-rig; second 45-min block; then hot laps; daily 30-45 min ≈ sweet spot [6:13-9:48]. After ~1 week: overlays back, build pace, race the track even if not fast [9:48-10:50].
+- **Arnout** · [yElAXFZjhNk](https://youtu.be/yElAXFZjhNk) "Why You Can't Close the 2 s Gap": belief (Henry Ford) + time (aliens put in far more hours; he has ~2 h/week) [0:00-4:41]. Use setup exploits (+1.5 s from bought setups) [4:41-5:44]. 90-min blocks with breaks; vary setup; document PBs (27.5 → 26.9 over 3 months) [5:44-7:16]. Breaks dull sharpness [7:47].
+- **Arnout** · [Qi8F5PAGda8](https://youtu.be/Qi8F5PAGda8) "Can't Improve on Lap Time Anymore?": accept a limit for car/track/setup/style; stop hot-lap grinding; race a 12-week season in one car on all tracks incl. hated ones; return months later 0.9 s faster at Brands Hatch, Silverstone <2:00 → 1:57, Nordschleife 57 → 53 [1:04-7:43]. Peak lap is usually lap 2-4 of a fresh session; then focus fades [9:16-9:48].
+- **Arnout** · [afFqYV9aCJ0](https://youtu.be/afFqYV9aCJ0) "How to Focus When You're Slow": when slowest in split, goal = survive and improve own lap (55.1 → 54s), let faster cars go, gain from others' incidents; P27 → P21 [0:30-7:08].
+- **Arnout** · [Us5jzR_Ekh0](https://youtu.be/Us5jzR_Ekh0) "Never Spin Again": catch oversteer — initial countersteer as soon as slide felt, but the RETURN must be ~2× faster or you tank-slap the other way [1:01-2:33]. Add throttle to unload fronts and stabilise [3:34-4:35]. Practise with deliberately oversteery setup [4:35-5:37]. Keep a fixed steering ratio for predictability [5:37-6:39].
+- **Suellio** · [KPo8GeGKGhk](https://youtu.be/KPo8GeGKGhk) "How Pros Think Ahead":
+  - Everything is linear/connected; think backwards from the most important corner (before longest straight) and set "checkpoints" for compound sequences [0:30-5:07]. Reverse-engineer only when corners are compound (can't go straight between) [12:18-13:19].
+  - Deceiving kinks before a key corner throw people off line; elevation (compression/crest) at turn-in point changes response [8:44-11:47].
+  - Racecraft: plan passes 2-3 corners/laps ahead (study opponent's weak exit, set up better exit); arrive alongside as defender looks at brake reference [13:50-16:53]. Two cars fighting ahead → delay turn-in, better exit, pass both [17:56-21:00]. Beginners' "options window" is 1 s; grows to 3 s, 10 s, a lap [23:34-24:07].
+- **Suellio** · [MMvxErwpxxw](https://youtu.be/MMvxErwpxxw) "Rules You Should NEVER Break":
+  - Rule 1: never add steering when understeering — fronts are saturated; instead lift/add a little brake to load fronts (even relax/reduce steer) [0:30-3:08]. "Like trying to lift 40 kg because you couldn't lift 30" [3:08]. Detect understeer: adding steer doesn't change yaw rate [4:11-4:41].
+  - Rule 2: never add significant brake while holding steering (only 1-10% for rotation) — must reduce steering; relax hands whenever weight goes forward [7:44-10:15].
+  - Brakes ↔ steering ↔ throttle combination is a moving target; sharpness fades without practice "like elastic" [13:23-14:55].
+- **Suellio** · [tmnlQOfjDKI](https://youtu.be/tmnlQOfjDKI) "Stop Your Fear of Spins":
+  - Don'ts: lots of steering + lots of brake = understeer, not spin; spin needs a little brake + a little steering [0:31-2:03].
+  - Progression on a skidpad (centripetal circuit): (1) spin quickly at will; (2) catch slides with hands off/relaxed (FFB corrects, needs strong DD wheel); (3) sustain the slide with fast small corrections — "slow corrections are not good for anything"; (4) generate the slide progressively ("slow motion"), largest at mid-corner [2:03-9:13].
+  - On track: use a slide to find corner speed — slide pushes you outside = too fast; slide pulls you to inside = carry more speed [10:15-11:48]. Turning in too early ("wait, wait, then turn") never reaches the limit [13:53-14:55].
+- **Suellio** · [K7IVcD-TF3Y](https://youtu.be/K7IVcD-TF3Y) "Recover Confidence After a Crash" (real-life Radical, Melissa):
+  - Find limit progressively: warm tyres, test mid-corner grip on half/full throttle (front unloaded = safe), test deceleration (deliberately lock rears in testing), stitch together; 3-4 s off is fine [0:31-3:23].
+  - "Micro-corrections" are communication: how many times per second you ask the car a question; smooth-under-the-limit = disconnected, unprepared when limit comes [3:53-5:56].
+  - "Fast initial, not hard initial" brake application — spike to 50 bar not 90 → far from locking [6:58-7:29].
+- **Arnout** · [IetFspa2BJ8](https://youtu.be/IetFspa2BJ8) "Rookie to PRO in LMU (25 tips)": results only come from finishing [0:00]. GT3 fixed first (hypers add chaos) [0:31]. Ready to race = 5 consecutive laps without off/spin [1:32]. Plan schedule; system check; no distractions [2:04-2:35]. Practise pit entry every out-lap (20 races = 20 pit entries) [2:35-3:05]. Quali: fixed 30% energy, build laps, push last [3:37-4:37]. Don't change TC/ABS/setup between quali and race [5:08-5:38]. Starts: stay on line, inside line, ignore crashes — look at open space [8:12-10:16]. Avoid three-wide; drive under limit [10:46]. Let fast closers pass, chase later [10:46-11:48]. Finish first; be gracious in chat [12:18-14:21]. P12 → P6.
+- **Arnout** · [LdzTEWRwP0A](https://youtu.be/LdzTEWRwP0A) "Start a Race Clean": decide before lights to survive the start [1:32-2:02]. Margin: half a metre left/right, gap ahead; tap brake lights early to warn followers [2:34-4:08]. Practise on full fuel/cold tyres/wrong pressures [4:39-5:41]. Can you drive offline? [5:41-6:13]. Stay on your side [6:13-7:17]. "50/50" method [1:02].
+- **Arnout** · [r-ZfkwV4PC4](https://youtu.be/r-ZfkwV4PC4) "Overtaking": overtaking is ~2% of a race; consistency is the base [0:00-0:32]. Pressure without attacking — "Mr Race Tidy" consistency forces mistakes [2:05-3:06]. Lower splits: lap times similar, consistency differs massively [3:06-3:36]. Only pass if you can then pull away; sudden clean air needs a mental reset [4:09-6:12]. Outside passes / dummy to make an over-braker overbrake [7:46-9:18]. Learn opponent's habits [9:18].
+- **Arnout** · [P63-bcpWsKc](https://youtu.be/P63-bcpWsKc) "Why Track Guides Don't Work for You": copy gear and line, not brake points; brake earlier (150 m vs 100 m), target ~5 km/h below guide's apex speed, perfect line [0:30-1:34]. Basics: brake once, steer once, gentle throttle, full throttle only with wheel straight [2:05-2:35]. +2-3 km/h from earlier mid-corner partial throttle carries down the straight (Spa T1) [3:08-4:13]. Check pedal calibration — he was stuck at 99% throttle; add 5% deadzone [6:50-7:51]. Plateau → step setup toward rotation (rear ride height up, brake bias down, rear toe) in small steps [9:26-12:29].
+- **Arnout** · [ez2XeFN5Kl0](https://youtu.be/ez2XeFN5Kl0) "Brake Bias": bias sets which axle leaves the grip circle first; low = rear spin on trail braking, high = understeer [1:02-4:10]. Counter-intuitive: move bias FORWARD to unlock rotation-friendly setup changes elsewhere (more rear ride height, softer front, lower front ARB, less rebound) → better mid/exit, less steering, possibly less tyre heat [4:10-11:23]. Bias didn't change stopping distance noticeably [11:23].
+- **Suellio** · [YozWiTOLi6U](https://youtu.be/YozWiTOLi6U) "Why Using All the Track Slows You Down":
+  - "Use all the track" only pays when the car is at the tyre limit [1:51-2:22]. Driving the line (B, comfortable, under limit) vs driving the car (A, at limit but not full track) vs both (C, fastest); A can beat B [2:52-6:28].
+  - Test: on exit, steer a bit more after power — if the car accepts it and leaves track unused, carry more speed next lap [6:28-7:31]. "At the right speed, the car takes you to the outside — passenger of inertia"; LINE OF CONSEQUENCE [7:31-9:02]. Students told to hit the inside wall/grass on purpose to discover unused grip [8:02].
+  - Fix: accelerate earlier, or reshape entry (early/late apex) depending on what follows [9:33-10:33].
+- **Suellio** · [SD8SZ5qNLtY](https://youtu.be/SD8SZ5qNLtY) "Why Oversteer Is Faster": understeer = fronts past optimal slip, rears unused → both below optimal total force [2:04-3:05]. Oversteery car can be steered to neutral both ways via pedals; understeery car only rotates by overslowing [5:09-6:41]. Fast drivers aren't faster reactors — they PREDICT where oversteer happens [7:41-8:42]. Oversteer = too much rotation in too small a distance [9:13]. Snap zones: early entry (tense hands) and late exit (fixed-radius thinking; hesitating on early exit → forcing rotation at speed) [9:43-14:50].
+- **Suellio** · [R6yb7Fm8m6o](https://youtu.be/R6yb7Fm8m6o) "Top 5 Racecraft Skills": (1) Car behind braking later: release brakes to match speed — you're the only one who can avoid it [0:31-1:31]. (2) Following into braking zone: lift ½ s before your reference (draft makes you faster) [1:31-2:33]. (3) Never look directly at cars — references with focus, cars with peripheral [2:33-3:34]. (4) In battles stay near racing line; leave exactly one car width; let over-committed divers run wide and cross back [3:34-5:38]. (5) "Mind punt" — show in mirrors before braking zones without committing; defender overdrives [5:38-7:09]. "2% learning, 98% applying"; use sticky notes [7:39-8:40].
+- **Suellio** · [cMsM_uMxH34](https://youtu.be/cMsM_uMxH34) "Why Trying to Gain Lap Time Makes You Lose It" (coaching): student overdrove locally — late braking + fast initial steering into ABS → lazy car — then under the limit mid/exit [7:16-10:53]. Fix: slow initial steering, then progressive/exponential steering toward power ("1-2-3-4-5-power"); force mid-corner & exit; "point and shoot" [11:24-12:25]. Don't straighten wheel before throttle — straighten after power [13:00-13:30]. Turning + adding brake = car goes straight; unwind as you brake [20:12-20:44]. Suellio discourages overlay-telemetry comparison during learning — "tells you what's wrong, not why" [5:42-6:46]. "I try less, the car gives me more" [19:10]. Early braking ↔ early throttle are related errors [30:40].
+- **Arnout** · [1q_ghK5-WDE](https://youtu.be/1q_ghK5-WDE) "ABS + Braking Guide (LMU)": pedal must do 0/10/50/100 and bleed smoothly [2:02-2:33]. 100% OK only in high-speed high-aero zones; bleed as aero drops (~125-150 km/h) [4:07-5:41]. Prefer front-lock (controllable) over rear-lock [5:41-6:12]. ABS 9-7 = front-biased (safe understeer), 6-4 balanced, 3 rear-biased (rotation, danger) [7:48-11:23]. Relying on ABS = tyres pinging out of the circle = slow [11:23-11:53]. Low brake bias + ABS9 works (Interlagos example) [14:30-16:01]. If spinning: go ABS 6→9, then raise front bias; introduce aggression stepwise [18:04-19:37].
+- **Arnout** · [-mmqRNqIKK8](https://youtu.be/-mmqRNqIKK8) "Low TC Isn't Automatically Faster": TC needs depend on engine torque curve (turbo surges) [1:01-3:03]. Grip circle: throttle + lock = outside [3:03-4:36]. LMU TC = TC (straight-line), slip (cornering), cut (pushback); keep values close together (e.g. 333, 454) — extremes like 1-9-1 behave weirdly [5:37-14:29]. TC override button for rotation on demand [14:29-15:33]. Throttle curve to get finer control in low range [15:33-16:34]. His style: ~50-60% then floor [16:34-17:06].
+- **Arnout** · [h_Yus3kgJHs](https://youtu.be/h_Yus3kgJHs) "Learn FFB Faster" (Arnout): build "reference feelings" — heavier on brake (front load), lighter on throttle w/ lock (understeer), heavier with downforce [1:01-2:01]. Only essentials: steering lock = real rotation (900°), in-game gain so it doesn't clip [4:04-5:35]. Keep the same base settings across all sims so references accumulate [6:37-7:38].
+- **Suellio** · [3MLKewyTanc](https://youtu.be/3MLKewyTanc) "Ultimate Guide to FFB" (Suellio): FFB = self-aligning torque of the fronts; force peaks near optimal slip [0:31-1:32]. Understeer → wheel goes light; oversteer → strong force continuing past centre (countersteer force) [2:35-4:07]. "Chase peak force mid-corner"; light steering = something wrong [5:10-6:11]. Avoid clipping (brief on kerbs ok) [6:11-7:42]. Real-world torque table; sim sweet spot 10-15 Nm [8:12-9:13]. Keep force consistent across cars (iRacing auto) [10:46-11:48]. Linear mode on; effects minimal, ≤10-15% damping; understeer/oversteer effects useless [11:48-16:59].
+- **Suellio** · [gIl5b8_0h_8](https://youtu.be/gIl5b8_0h_8) "Beginner Found −4.5 s With ONE CHANGE" (vision only): inputs were fine; problem = no plan per corner and eyes fixed just ahead [2:26-3:27]. Eyes always ~½ s ahead: once a target is achieved, look to the next (entry → apex → exit) [4:58-7:02]. Open up entries + earlier turn-in via earlier looking = bigger arcs; 0.3 s + 0.1 s "free time" in single corners [3:58-8:04]. Compound complex: minimum speed sits at the smallest radius; decelerate until there [13:42-14:46]. 2:17 → 2:12.5 (−4.5 s), "mistakes now very local" [24:51].
+- **Arnout** · [DMGBVH7IGBY](https://youtu.be/DMGBVH7IGBY) Arnout receives coaching (PitSkill coach): upshift too late (Lambo optimum 8,000 rpm) [10:55-11:58]; brake "pumping" timed with downshifts → brake once, release earlier [13:01-14:05]; downshifting mid-corner = dynamic rear brake bias shift, unsettles car, fakes "limit" [16:06-17:42]; can you hit 10% throttle/brake on demand? [19:14]; fishing for grip = find steering angle of max FFB force, needs loose hands [21:22-22:23]; check FFB clipping bar [4:38-5:39]; overlay used to reflect on each corner's input on the next straight [14:35-15:36]. "Most problems = not being conscious of the mistakes" [15:36].
